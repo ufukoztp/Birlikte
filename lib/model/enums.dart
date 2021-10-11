@@ -1,0 +1,10 @@
+enum DETAILROUTE{
+  GAME,
+  REDWARD,
+  COMPLETE
+}
+
+enum SIGNTYPE {
+  GOOGLE,
+  PHONE
+}
